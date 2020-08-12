@@ -21,7 +21,7 @@ Boundary Condition:
 
 Simulation:
   Time Step: 0.0005
-  Number Time Steps: 20000001
+  Number Time Steps: 1000001
   Number of Elements X: 10 
   Number of Elements Y: 10
 
@@ -30,7 +30,7 @@ Plot:
   figure temperature name: Temperature
   Color Interpolation: 50
   Color Map: "inferno"
-  plot interval: 500000
+  plot interval: 100000
   
 Animation:
     name: temperature
